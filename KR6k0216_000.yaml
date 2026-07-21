@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6k0216/x/v1/juan/0
 seq: 0
-front:
+body:
   text: 芝苑遺編目録上卷戒體章持犯體章持犯句法章律宗要大小乘論始終戒要中卷授大乘菩薩戒儀剃髮儀式受戒方便建明州開元寺戒壇誓文并鄭丞相跋誡沙彌文下卷為蔣樞密開講要義請簡詩附為高麗僧統義天開講要義上樝菴法師書南山律宗祖承圖録南山律師撰長録并跋目録終
   hash: sha256:8006c10c478dd0b6651745940d1248e3bb568e4a2adfb44f7a65e5f66744e4a7
   markers:
   - {type: 其他, offset: 0, content: 芝苑遺編目錄, id: KR6k0216_X_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 芝園遺編
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/X/X59/X59n1104.xml
     old_id: X59n1104
-hash: sha256:a09de84410c2742ca5c8484d1749eef787a216b3ecfc93a1cdee7dc1523f9e02
+hash: sha256:2d503048fb2f4ecae4cf5df75783e4436cb578152457a0af0c97c0c8f316cf9f

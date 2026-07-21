@@ -19,12 +19,12 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6k0216_000-X.yaml, hash: 'sha256:fa6af0e3d2671e32abc66ebbde985ad5e684c05196cef0d2333c6de5de0157d1'}
+  - {seq: 0, filename: KR6k0216_000-X.yaml, hash: 'sha256:fe70ec8ed1589c174bcd34aba7940a91e79227ab020578a766d48a3bdb459f25'}
   - {seq: 1, filename: KR6k0216_001-X.yaml, hash: 'sha256:f7cfce708ba515f789e054d1a3ab23c81196c177154a8ceeca53f50f431fcd12'}
   - {seq: 2, filename: KR6k0216_002-X.yaml, hash: 'sha256:a25f9538d47bc05fe6194399453c624bec15b00dc325ae6f55e9c90e99493a40'}
   - {seq: 3, filename: KR6k0216_003-X.yaml, hash: 'sha256:106ea33b090d2798f1a466c8b1b70d81657ecc66214f9d5a2472433feb09dd86'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6k0216_000-X.markers.yaml, hash: 'sha256:57f7df0792e09e6e7db0a6fb195d0312c36f1d1b8fcbff9e74ad6ad664643d46'}
+  - {seq: 0, role: markers, filename: assets/KR6k0216_000-X.markers.yaml, hash: 'sha256:4792ff9ab5ccb270e5f3a1d23b3d9ecde527ff12cd25a6181be225c239c7250e'}
   - {seq: 1, role: markers, filename: assets/KR6k0216_001-X.markers.yaml, hash: 'sha256:93230fc6ae1d508a6ab42c5fca0d0cb8697cc58868b4240506677f8601c71732'}
   - {seq: 2, role: markers, filename: assets/KR6k0216_002-X.markers.yaml, hash: 'sha256:516322f0cccb061d9e8490e3c00ca911ce2a2c97227353cb1cd02d545aa44292'}
   - {seq: 3, role: markers, filename: assets/KR6k0216_003-X.markers.yaml, hash: 'sha256:74a54d3e9face41b8cfb91bc7129920f98dc4c82d6b3e5b04c0c715294468064'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6k0216_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 芝苑遺編目錄
@@ -679,4 +679,4 @@ table_of_contents:
   label: 南山律師撰集錄
   type: mulu
   level: 1
-hash: sha256:acadeb46d535cb33918bd74d430643e1d181f464bc722fa6cc5cc4d5834b5250
+hash: sha256:d76693d84614b1c6cd7c1bd2551e6283ff8b02e2d6a3c3ac3bde1a46e010020e
